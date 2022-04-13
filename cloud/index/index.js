@@ -9,7 +9,7 @@ const product = require('service/productService.js')
 const order = require('service/orderService.js')
 const baseTest = require('test/models/BaseModelTest.js')
 cloud.init()
-const IMAGEPREFIX = "cloud://release-prod.7265-release-prod"
+const IMAGEPREFIX = "cloud://cloud1-3gvz98emaea75df4.636c-cloud1-3gvz98emaea75df4-1310281304"
 
 
 // 云函数入口函数
